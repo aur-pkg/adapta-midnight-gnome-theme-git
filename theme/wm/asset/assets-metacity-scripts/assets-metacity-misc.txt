@@ -1,2 +1,0 @@
-light/thumbnail
-dark/thumbnail
