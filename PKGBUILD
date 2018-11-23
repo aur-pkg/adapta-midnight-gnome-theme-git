@@ -2,11 +2,7 @@
 
 pkgname=adapta-midnight-gtk-theme-git
 pkgver=3.95.0.1
-outdir=src
 
-# Output Paths
-# SRCDEST=$outdir/src
-PKGDEST=$outdir
 pkgrel=1
 pkgdesc='An adaptive Gtk+ theme based on Material Design Guidelines'
 arch=('any')
